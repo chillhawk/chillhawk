@@ -80,7 +80,7 @@
 </div>
 
 ---
-
+<div>
 ## 🏆 Certifications & Learning Path
 
 <div align="center">
